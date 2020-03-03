@@ -1,0 +1,35 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=doubleNeopixelBoard
+*Date=17:49:37
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;3.40022;-0.961227;0;Bottom;TXT9
+2;;;6.60007;-0.934416;0;Bottom;TXT10
+3;;;8.65136;-8.8968;0;Bottom;TXT6
+4;;;3.37875;-8.82188;0;Bottom;TXT11
+5;;smd 2812b;5.02312;-5.12593;180;Top;Part1
+6;;THT;1.35729;-5.02206;0;Bottom;J1
+7;;;1.32359;-0.793812;0;Bottom;TXT5
+8;;;5.08;-5.0216;0;Bottom;Copper Fill1
+9;;;1.34205;-0.830727;0;Bottom;TXT2
+10;;;4.9906;-8.94357;0;Bottom;IMG1
+11;;;1.39742;-8.93372;0;Bottom;TXT7
+12;;smd 2812b;5.03401;-5.1009;180;Bottom;Part2
+13;;;6.6711;-8.86925;0;Bottom;TXT12
+14;;;1.39742;-8.95218;0;Bottom;TXT1
+15;;THT;8.69901;-5.00889;0;Bottom;J2
+16;;;3.15212;-0.985779;90;Bottom;TXT13
+17;;0805;5.05321;-0.95283;0;Bottom;C1
+18;;;8.59598;-8.8968;0;Bottom;TXT3
+19;;;8.6329;-0.830727;0;Bottom;TXT4
+20;;;8.65136;-0.830727;0;Bottom;TXT8
