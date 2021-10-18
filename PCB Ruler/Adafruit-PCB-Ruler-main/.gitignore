@@ -1,0 +1,17 @@
+*.sw*
+*.zip
+*.net
+*bak
+*.bck
+*.dcm
+*.cmp
+*-cache.lib
+sym-lib-table
+fp-lib-table
+fp-info-cache
+OldPCBs/
+assets/
+*.png
+*.jpg
+Package_BGA.pretty
+Jumper.pretty
